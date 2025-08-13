@@ -1,6 +1,6 @@
 # Music-Genre-Detection
 
-Classify music tracks by genre using machine learning / deep learning.
+Classify music tracks by genre using machine learning.
 
 ## 📦 Tech Stack
 - Python, NumPy, Pandas, Scikit-learn 
